@@ -1,1 +1,1 @@
-# Self-service_checkout_Project
+A project that emulates the operation of a self-service checkout written in Java
